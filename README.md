@@ -25,7 +25,7 @@ botanical dietary supplement,
 python3 yt2srt.py
 ```
 
-3. Adjust manually the start time and end time for better result.
+3. An output file with the same name and `.srt` is created.
 
 Sample output file:
 
@@ -48,3 +48,5 @@ turmeric is the third best-selling
 00:00:11,000 --> 00:00:12,000
 botanical dietary supplement,
 ```
+
+4. Manually adjust the the end time of the last entry in the `.srt` file for a better result.
